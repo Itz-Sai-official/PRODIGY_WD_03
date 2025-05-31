@@ -2,7 +2,7 @@
 Tic-Tac-Toe Web application 
 
 Goal of the Project:
-The main goal of this web development project is to design and develop an interactive, user-friendly Tic-Tac-Toe game that runs in a web browser. The project aims to implement core web technologies (HTML, CSS, JavaScript, etc.) to allow two players to play the game in real-time through a visually engaging and responsive interface.
+The main goal of this web development project is to design and develop an interactive, user-friendly Tic-Tac-Toe game that runs in a web browser. The project aims to implement core web technologies (HTML) to allow two players to play the game in real-time through a visually engaging and responsive interface.
 
 Uses of the Project:
 Entertainment & Leisure: A simple and fun game for users to pass the time or challenge their friends.
